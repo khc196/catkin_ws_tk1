@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws/install
+
+Name: ros_cam_six
+Description: Description of ros_cam_six
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ubuntu/catkin_ws/install/lib 
+Requires: 
